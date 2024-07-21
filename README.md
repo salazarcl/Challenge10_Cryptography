@@ -1,6 +1,6 @@
 # Challenge10_Cryptography
-Instrucciones
-Ransomware Riddles
+#Instrucciones
+#Ransomware Riddles
 In this assignment, you will play the role of a cybersecurity analyst at Nakatomi Hospital.
 
 Unfortunately, one of the hospital's doctors opened an email containing ransomware.
